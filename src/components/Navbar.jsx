@@ -26,6 +26,9 @@ const Navbar = () => {
             <Link as={RouterLink} to="/contact">
               Contact
             </Link>
+            <Link as={RouterLink} to="/gallery">
+              Gallery
+            </Link>
           </HStack>
         </HStack>
       </Container>
