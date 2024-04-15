@@ -23,6 +23,9 @@ const Navbar = () => {
             <Link as={RouterLink} to="/gallery">
               Gallery
             </Link>
+            <Link as={RouterLink} to="/gallery">
+              Gallery
+            </Link>
             <Link as={RouterLink} to="/contact">
               Contact
             </Link>
